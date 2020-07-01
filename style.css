@@ -1,0 +1,114 @@
+
+  a {
+    color: blue; 
+    text-decoration: none; 
+  }
+
+  a:hover {
+    color:grey; 
+    
+    text-decoration: none; 
+  }
+
+  body {
+    background-color:#f5fffa ; 
+    color: black; 
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align: center; 
+    
+   }
+   a.body{
+    background-color: #708090;
+    background-image: url("images/download.jpg");
+   }
+
+  footer {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  h1 {
+    margin-bottom: 0.5rem;
+    margin-top: 3rem;
+   }
+
+  h2 {
+    color: #075AAB; 
+    margin-bottom: 2.5rem;
+    margin-top: 2.5rem;
+    size:10px;
+
+  
+
+   }
+
+  h3 {
+    margin-bottom: 0;
+    margin-top: 2rem;
+  }
+
+  h4 {
+    margin-bottom: 1rem;
+    margin-top: 0.5rem;
+  }
+
+  h5 {
+    margin-top: 0.5rem;
+  }
+
+  hr {
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+  }
+  p.test
+  {
+    word-wrap: break-word;
+  }
+li
+{
+  margin: 1px;
+  padding: 0px;
+}
+ ul {
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+  }
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-github{
+   background:black;
+  color: white;
+
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}  
+.fa-twitter {
+  background: black;
+  color: blue;
+} 
+ 
